@@ -23,4 +23,5 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('hello/', views.hello, name='helloMsg'),
     path('', views.hello, name='helloMsg'),
+    path('hello2', views.test_print, name='helloNewStyleClass'),
 ]
