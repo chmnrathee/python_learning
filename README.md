@@ -6,6 +6,6 @@
 
 - Panda
 
-###K8s Image:
+###K8s Images:
 
 ![Graph](./K8s.png?raw=true "K8s")
